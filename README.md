@@ -1,9 +1,9 @@
-I encountered an issue while trying to access the `main.ipynb` notebook. It seems the file had no contents or there was a problem loading it. I will proceed with the analysis based on the file names and typical content these files might contain:
+
 
 ### Project Summary
 
 #### Overview
-This project appears to involve data analysis or machine learning, likely focusing on student performance based on the `student-mat.csv` file, which traditionally contains student grades along with demographic, social, and school-related attributes.
+This project is on  data analysis or machine learning, likely focusing on student performance based on the `student-mat.csv` file, which traditionally contains student grades along with demographic, social, and school-related attributes.
 
 #### Files and Their Contents
 
